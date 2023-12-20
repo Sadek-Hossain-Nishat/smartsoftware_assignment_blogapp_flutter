@@ -5,7 +5,7 @@ class Blog {
   String? subTitle;
   String? slug;
   String? description;
-  Null? image;
+  String? image;
   String? video;
   String? date;
 
